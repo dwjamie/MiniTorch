@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### Clone the Codebase
 
 ```
-git clone https://github.com/dwjamie/MiniTorch.git
+git clone git@github.com:dwjamie/MiniTorch.git
 ```
 
 ### Install or Develop
